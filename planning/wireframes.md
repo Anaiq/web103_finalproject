@@ -17,7 +17,7 @@
 
 
 ## Wireframe 3: Puzzle Layout:
-img width="171" height="373" alt="puzzle layout" src="https://github.com/user-attachments/assets/3ec513e2-6f58-4f5c-8299-388188d22eed" />
+<img width="171" height="373" alt="puzzle layout" src="https://github.com/user-attachments/assets/3ec513e2-6f58-4f5c-8299-388188d22eed" />
 
 
 ## Wireframe 4: Hints:
