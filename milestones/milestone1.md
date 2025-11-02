@@ -23,7 +23,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 Discussion on project.
 
 ### 2. What were some challenges your group faced in this unit?
-Lost 1 group member(?).  Time zone differences, hard for all group members to meet at 1 time so used Slack to communicate asyncly.
+~Lost 1 group member(?).~  Time zone differences, hard for all group members to meet at 1 time so used Slack to communicate asyncly.
 
 ### 3. What additional support will you need in upcoming units as you continue to work on your final project?
 TBD.
