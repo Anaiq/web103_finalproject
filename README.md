@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Q.Partee and R. Bazelais
+Designed and developed by: Q.Partee, R. Bazelais, K. Ahmar
 
 🔗 Link to deployed app: TBD
 
