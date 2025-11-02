@@ -1,17 +1,61 @@
 # Entity Relationship Diagram
 
-Reference the Creating an Entity Relationship Diagram final project guide in the course portal for more information about how to complete this deliverable.
-
 ## Create the List of Tables
 
-[👉🏾👉🏾👉🏾 List each table in your diagram]
+- Player
+  | Column Name | Type | Description |
+  |-------------|------|-------------|
+  | id | integer | primary key |
+  | playerName | varchar(255) | name of the player |
+<br/>
+<br/>
 
-## Add the Entity Relationship Diagram
+- Game
+  | Column Name | Type | Description |
+  |-------------|------|-------------|
+  | id | integer | primary key |
+  | title | varchar | name of the game |
+  | isCompleted | bool | has player completed this game |
+  | description | text | describes this game |
+  | difficulty | varchar? integer | how hard is this game |
+  | tries | integer | how many incorrect guesses ? |
+  | score | integer | player's score|
+<br/>
+<br/>
 
-[👉🏾👉🏾👉🏾 Include an image or images of the diagram below. You may also wish to use the following markdown syntax to outline each table, as per your preference.]
+- Solution
+    | Column Name | Type | Description |
+    |-------------|------|-------------|
+    | id | integer | primary key |
+    | mainDish | varchar | answer|
+    | Dessert | integer | answer |
+    | Name | varchar | answer |
+    | gameId | integer | foreign key references game(id) |
+<br/>
+<br/>
 
-| Column Name | Type | Description |
-|-------------|------|-------------|
-| id | integer | primary key |
-| name | text | name of the shoe model |
-| ... | ... | ... |
+- Hint
+    | Column Name | Type | Description |
+    |-------------|------|-------------|
+    | id | integer | primary key |
+    | hint_text | text | hint provided on player request |
+    | number_of_hints_given | integer | how many hints the player has requested for this game |
+    | gameId | integer | foreign key references game(id) |
+
+<br/>
+<br/>
+    
+- GamePlayer
+  | Column Name | Type | Description |
+  |-------------|------|-------------|
+  | gameId | integer | compound primary key / FK to game.gameId|
+  | playerId | integer | compount primary key / FK to player.playerId |
+  | num_games_completed | integer | number of games a player has completed |
+
+<br/>
+<br/>
+<img width="1525" height="636" alt="Screenshot 2025-11-02 at 17 11 29" src="https://github.com/user-attachments/assets/0a230d94-e9d3-4376-9ccc-80e8b3a011f8" />
+
+
+
+
