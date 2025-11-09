@@ -26,11 +26,11 @@ Learned how to use github projects, issues for the first time.
 
 ### 2. What were some challenges your group faced in this unit?
 
-Getting starting with project organization, making sure to include neccessary features and components to the project.  Breaking down larger tasks to manageable sized items.
+Getting starting with project organization, making sure to include neccessary features and components to the project.  Breaking down larger tasks to manageable sized items.  Instructions on timelines were confusing.
 
 ### Did you finish all of your tasks in your sprint plan for this week? If you did not finish all of the planned tasks, how would you prioritize the remaining tasks on your list?
 
-TBD
+Planning tasks are finished. Starting features, will priortize getting MVP done.
 
 ### Which features and user stories would you consider “at risk”? How will you change your plan if those items remain “at risk”?
 
@@ -38,4 +38,4 @@ Board Interactivity:  Instead of animating the board on slection, maybe just add
 
 ### 5. What additional support will you need in upcoming units as you continue to work on your final project?
 
-Possibly CSS guidance,  Making sure UI is accessible and flows well.
+Possibly CSS guidance, making sure UI is accessible and flows well, how to do the sign in process? 
