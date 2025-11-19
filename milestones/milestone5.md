@@ -14,7 +14,7 @@ This unit, be sure to complete all tasks listed below. To complete a task, place
 - [x] In this document, complete the **Reflection** section below
 - [x] 🚩🚩🚩**Complete the Final Project Feature Checklist section below**, detailing each feature you completed in the project (ONLY include features you implemented, not features you planned)
 - [x] 🚩🚩🚩**Record a GIF showing a complete run-through of your app** that displays all the components included in the **Final Project Feature Checklist** below
-  - [ ] Include this GIF in the **Final Demo GIF** section below
+  - [x] Include this GIF in the **Final Demo GIF** section below
 
 ## Final Project Feature Checklist
 
@@ -78,9 +78,11 @@ Complete the checklist below detailing each baseline, custom, and stretch featur
   - *Selecting a photo from a list of provided photos does **NOT** count for this rubric item.*
 - [ ] 🍞 [Toast messages](https://www.patternfly.org/v3/pattern-library/communication/toast-notifications/index.html) deliver simple feedback in response to user events
 
-## Final Demo GIF
+## Final Demo GIF 
 
-🔗 [Here's a GIF walkthrough of the final project](👉🏾👉🏾👉🏾 your link here)
+🔗 GIF walkthrough of the final project:
+
+https://github.com/user-attachments/assets/3c0fce52-f23c-4734-b15c-4d5ccd360684
 
 ## Reflection
 
